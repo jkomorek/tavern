@@ -1,0 +1,14 @@
+/* CSS Document */
+/* line 3, ../../scss/footer.scss */
+footer {
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  /* Medium and up */
+}
+@media screen and (min-width: 40em) {
+  /* line 3, ../../scss/footer.scss */
+  footer {
+    position: absolute;
+  }
+}

@@ -1,0 +1,12 @@
+/* CSS Document */
+
+footer {
+	bottom:0; 
+	height:50px;
+	width:100%; 
+
+	/* Medium and up */
+	@media screen and (min-width: 40em) {
+		position:absolute;
+	}
+}
